@@ -472,7 +472,7 @@ img {
   box-shadow: 0 0 10px #00eeff, 0 0 10px #00eeff, 0 0 10px #00eeff;
 }
 .services {
-  background-color: #1D0C5D; /* light gray background */
+  background-color: #280137; /* light gray background */
   height: 90vh;
 }
 
@@ -561,7 +561,7 @@ img {
       }
     }
     .About{
-        background-color:#1D0C5D;
+        background-color:#280137;
         height: 100%;
         padding:50px 0px 0px 0px ;
         color: white;
